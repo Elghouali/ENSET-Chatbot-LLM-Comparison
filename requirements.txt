@@ -1,0 +1,4 @@
+streamlit>=1.57,<2
+ollama>=0.4,<1
+psutil>=6,<9
+pandas>=2.2,<4
