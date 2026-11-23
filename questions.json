@@ -1,0 +1,27 @@
+[
+  {
+    "id": "Q1",
+    "type": "Explication",
+    "prompt": "Explique simplement la différence entre un modèle de langage et un moteur de recherche, en 5 phrases maximum."
+  },
+  {
+    "id": "Q2",
+    "type": "Raisonnement",
+    "prompt": "Un train parcourt 120 km en 2 heures, puis 90 km en 1 heure. Calcule la vitesse moyenne sur l'ensemble du trajet. Explique toutes les étapes."
+  },
+  {
+    "id": "Q3",
+    "type": "Code Python",
+    "prompt": "Écris une fonction Python propre et testable qui retourne les trois nombres les plus fréquents d'une liste d'entiers. Gère les égalités par ordre croissant et donne un exemple."
+  },
+  {
+    "id": "Q4",
+    "type": "Synthèse",
+    "prompt": "Résume en deux phrases : Les modèles de langage sont entraînés sur de grands corpus de textes. Leur qualité dépend des données et de leur architecture. Leur utilisation peut nécessiter des ressources de calcul importantes. Les modèles plus petits sont souvent plus rapides sur du matériel modeste, mais peuvent faire davantage d'erreurs."
+  },
+  {
+    "id": "Q5",
+    "type": "Traduction",
+    "prompt": "Traduis en anglais naturel, sans commentaire : « L'intelligence artificielle peut aider les étudiants à apprendre, mais il faut vérifier les informations produites. »"
+  }
+]
