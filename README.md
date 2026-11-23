@@ -1,5 +1,14 @@
 # ENSET Chatbot — Amélioration et évaluation de LLMs locaux
 
+**Python · Streamlit · Ollama · Local LLM benchmarking**
+
+> **English overview for reviewers:** A local-LLM evaluation application that lets users compare two Ollama models on identical prompts, inspect generation latency and throughput, monitor host resource usage, and export benchmark measurements. Built as an academic project at ENSET Mohammedia. **Results depend on real local execution; no model scores are fabricated.**
+
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Ollama](https://img.shields.io/badge/Ollama-Local%20LLMs-333333)](https://ollama.com/)
+
+
 TP de **Pre. Asmae OUHMIDA**, cours **Systèmes décisionnels** (ENSET, II BDCC 3 / GLSID 3).
 
 Ce dépôt améliore le chatbot initial Streamlit + Ollama, conservé dans `legacy/ENSET_Chatbot.py`.
